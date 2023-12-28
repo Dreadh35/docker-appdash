@@ -44,6 +44,8 @@ Currently only the properties "logo", "port" and "name" are supported. port and 
 
 - Access the Dashapp under `<docker host adress>:8000`
 
+- If you added more labels, restart the dashapp container. The labels are read on startup.
+
 
 ### TO-DO
 
